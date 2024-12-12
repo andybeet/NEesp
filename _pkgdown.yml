@@ -63,9 +63,9 @@ navbar:
 reference:
   - title: Stock reports suite of functions
     desc: Functions to create stock reports, prepare, manipulate, analyze, and summarise data for reports, and plot data for reports.
-  - subtitle: Create a report
-    contents:
-      - '`render_ind_report`'
+#  - subtitle: Create a report
+#    contents:
+  #    - '`render_ind_report`'
   - subtitle: Prepare, manipulate, analyze, and summarise data  
     contents:
       - '`data_summary`'
